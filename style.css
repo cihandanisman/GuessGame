@@ -1,0 +1,14 @@
+body {
+    background-image: url("https://picsum.photos/id/564/600/400");
+    background-size: cover;
+    
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    
+    color: white;
+    margin-top: 20rem;
+    text-shadow: 3px 3px black;
+    font-size: 5rem;
+}
